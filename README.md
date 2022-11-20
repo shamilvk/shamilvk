@@ -1,23 +1,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed Shamil</h1>
 <h3 align="center">A passionate web developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clevinwilson&label=Profile%20views&color=0e75b6&style=flat" alt="clevinwilson" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilvk&label=Profile%20views&color=0e75b6&style=flat" alt="clevinwilson" /> </p>
 
 - 🌱 I’m currently learning **React JS**
 - 👨‍💻 Personal Website [https://shamilvk.github.io/Shamil/](https://shamilvk.github.io/Shamil/)
- - 📄 Know about my experiences [![Linkedin: Shamil](https://img.shields.io/badge/-muhammed-shamil-vk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/muhammed-shamil-vk-757306243/)
-- 📫 How to reach me **clevinmwilson@gmail.com**
+ - 📄 Know about my experiences [![Linkedin: Shamil](https://img.shields.io/badge/-shamil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/muhammed-shamil-vk-757306243/)
+- 📫 How to reach me **muhammedshamilvk500@gmail.com**
 - Fun Fact: I ❤️ Football.
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/clevin-m-wilson-9800b51a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gladson m.s" height="30" width="40" /></a>
-<a href="https://www.facebook.com/clevin.wilson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gladson saji" height="30" width="40" /></a>
-<a href="https://www.instagram.com/clevinmwilson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gladsonsaji" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTKrVbzpjlhHIUlbQiz-3cQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gladson ms" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5617" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-shamil-vk-757306243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gladson m.s" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gladson saji" height="30" width="40" /></a>
+<a href="https://instagram.com/sh__amil_____?igshid=MTg0ZDhmNDA=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gladsonsaji" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5uSdLhVtCUL4bIkTnJU2lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gladson ms" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5617" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
